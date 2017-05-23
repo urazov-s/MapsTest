@@ -22,7 +22,6 @@
         marker.position = location.coordinate;
         marker.map = self;
     }
-    self.myLocationEnabled = true;
 }
     
 @end
