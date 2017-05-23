@@ -1,0 +1,9 @@
+# Mac OS X files
+.DS_Store
+# Idea files
+.idea/*
+
+*.orig
+
+xcuserdata/
+Pods/
